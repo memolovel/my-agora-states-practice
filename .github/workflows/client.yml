@@ -32,4 +32,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-112-memolovel-s3 \
             --delete
-        working-directory: fe-112-memolovel-s3
+        working-directory: ./my-agora-states-client
